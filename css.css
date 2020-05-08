@@ -82,23 +82,4 @@ p{
                 width:33%;
     }
 }
-    /*************************small size*********************/
-    @media (max-width: 767px){
-    .ss1 , .ss2 , .ss3{
-        float:center;
-        align-items:center;
-        width:100%;
-    }
-    .ss1{
-        margin-right:1%;
-        width:100%;
-    }
-    .ss2{
-        width:100%;
-    }
-    .ss2{
-        width:100%;
-    }
-}
-
     
